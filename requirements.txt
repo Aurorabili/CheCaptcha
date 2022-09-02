@@ -1,0 +1,4 @@
+fastapi==0.81.0
+lxml==4.9.1
+requests==2.27.1
+uvicorn==0.18.3
