@@ -31,4 +31,4 @@ def GetcheCaptcha():
 
 
 if __name__ == '__main__':
-    uvicorn.run('main:appservice', port=21001)
+    uvicorn.run('main:appservice')
